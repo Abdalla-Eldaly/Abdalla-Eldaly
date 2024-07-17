@@ -17,24 +17,17 @@ I'm a professional Flutter developer and designer with experience in building ro
 ## Detailed Stats
 
 - **Total Commits:** ![GitHub Commits](https://img.shields.io/github/commit-activity/y/Abdalla-Eldaly?label=Total%20Commits&color=brightgreen)
-- **Total Pull Requests:** ![GitHub Pull Requests](https://img.shields.io/github/issues-pr-closed-raw/Abdalla-Eldaly/your-repo-name?label=Total%20PRs&color=blue)
-- **Total Issues Opened:** ![GitHub Issues](https://img.shields.io/github/issues-raw/Abdalla-Eldaly/your-repo-name?label=Total%20Issues%20Opened&color=orange)
-- **Total Issues Closed:** ![GitHub Issues Closed](https://img.shields.io/github/issues-closed-raw/Abdalla-Eldaly/your-repo-name?label=Total%20Issues%20Closed&color=red)
+- **Total Pull Requests:** ![GitHub Pull Requests](https://img.shields.io/github/issues-pr-closed-raw/Abdalla-Eldaly?label=Total%20PRs&color=blue)
+- **Total Issues Opened:** ![GitHub Issues](https://img.shields.io/github/issues-raw/Abdalla-Eldaly?label=Total%20Issues%20Opened&color=orange)
+- **Total Issues Closed:** ![GitHub Issues Closed](https://img.shields.io/github/issues-closed-raw/Abdalla-Eldaly?label=Total%20Issues%20Closed&color=red)
 - **Total Stars:** ![GitHub Stars](https://img.shields.io/github/stars/Abdalla-Eldaly?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&color=yellow)
 
-## My Work
 
-Here are some of the projects I've worked on:
-
-- **[Speedy Go](https://github.com/Abdalla-Eldaly/SpeedyGo)**: A smart transportation app with features like distance and time calculations, emergency call functionality, and real-time tracking.
-- **[Secretary App](https://github.com/Abdalla-Eldaly/SecretaryApp)**: An app for managing patient data, including adding and searching for patient details.
-- **[Flutter Clean Architecture](https://github.com/Abdalla-Eldaly/FlutterCleanArchitecture)**: A project demonstrating clean architecture principles using Flutter, Dio, and Retrofit.
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
-- [Twitter](https://twitter.com/your-twitter-username)
-- [Portfolio](https://your-portfolio-url)
+- [LinkedIn](https://www.linkedin.com/in/abdalla-eldaly-02621223b/)
+
 
 ## GitHub Trophies
 
