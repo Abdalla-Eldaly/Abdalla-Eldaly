@@ -14,13 +14,14 @@ I'm a professional Flutter developer and designer with experience in building ro
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalla-Eldaly&layout=compact&theme=radical)
 
-## Detailed Stats
+## Contributions
 
 - **Total Commits:** ![GitHub Commits](https://img.shields.io/github/commit-activity/y/Abdalla-Eldaly?label=Total%20Commits&color=brightgreen)
 - **Total Pull Requests:** ![GitHub Pull Requests](https://img.shields.io/github/issues-pr-closed-raw/Abdalla-Eldaly?label=Total%20PRs&color=blue)
 - **Total Issues Opened:** ![GitHub Issues](https://img.shields.io/github/issues-raw/Abdalla-Eldaly?label=Total%20Issues%20Opened&color=orange)
 - **Total Issues Closed:** ![GitHub Issues Closed](https://img.shields.io/github/issues-closed-raw/Abdalla-Eldaly?label=Total%20Issues%20Closed&color=red)
 - **Total Stars:** ![GitHub Stars](https://img.shields.io/github/stars/Abdalla-Eldaly?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&color=yellow)
+
 
 ## Let's Connect
 
