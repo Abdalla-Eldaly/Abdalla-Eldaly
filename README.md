@@ -4,7 +4,7 @@ I'm a professional Flutter developer and designer with experience in building ro
 
 ## Let's Connect
 
-- [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/> LinkedIn](https://www.linkedin.com/in/abdalla-eldaly-02621223b/)
+- [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/abdalla-eldaly-02621223b/)
 
 ## GitHub Stats
 
