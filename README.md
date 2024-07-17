@@ -22,10 +22,9 @@ I'm a professional Flutter developer and designer with experience in building ro
 - **Total Issues Closed:** ![GitHub Issues Closed](https://img.shields.io/github/issues-closed-raw/Abdalla-Eldaly?label=Total%20Issues%20Closed&color=red)
 - **Total Stars:** ![GitHub Stars](https://img.shields.io/github/stars/Abdalla-Eldaly?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&color=yellow)
 
-
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/abdalla-eldaly-02621223b/)
+- [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/> LinkedIn](https://www.linkedin.com/in/abdalla-eldaly-02621223b/)
 
 ## GitHub Trophies
 
