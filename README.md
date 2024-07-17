@@ -2,11 +2,17 @@
 
 I'm a professional Flutter developer and designer with experience in building robust and scalable applications. Here’s a glimpse of my activity and contributions on GitHub.
 
+## Let's Connect
+
+- [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/> LinkedIn](https://www.linkedin.com/in/abdalla-eldaly-02621223b/)
+
 ## GitHub Stats
 
 ![Abdalla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdalla-Eldaly&show_icons=true&theme=radical)
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Abdalla-Eldaly&theme=radical)
+
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Abdalla-Eldaly&color=blueviolet)
 
@@ -16,9 +22,7 @@ I'm a professional Flutter developer and designer with experience in building ro
 
 
 
-## Let's Connect
 
-- [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/> LinkedIn](https://www.linkedin.com/in/abdalla-eldaly-02621223b/)
 
 ## GitHub Trophies
 
