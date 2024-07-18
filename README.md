@@ -16,8 +16,6 @@ I'm always excited to connect with fellow developers, designers, and tech enthus
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Abdalla-Eldaly&color=blueviolet)
 
-## 💻 Top Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalla-Eldaly&layout=compact&theme=radical)
 
 ## 🚀 Expertise
