@@ -18,23 +18,7 @@ I'm always excited to connect with fellow developers, designers, and tech enthus
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalla-Eldaly&layout=compact&theme=radical)
 
-## 🚀 Expertise
 
-### Languages and Frameworks
-
-- **Dart** [<img src="https://img.icons8.com/color/48/000000/dart.png"/>]
-- **Flutter** [<img src="https://img.icons8.com/color/48/000000/flutter.png"/>]
-- **Firebase** [<img src="https://img.icons8.com/color/48/000000/firebase.png"/>]
-
-### Developer Tools
-
-- **IDE** [<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>] [<img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>]
-- **Version Control** [<img src="https://img.icons8.com/color/48/000000/git.png"/>] [<img src="https://img.icons8.com/fluent/48/000000/github.png"/>]
-- **Testing** [<img src="https://img.icons8.com/color/48/000000/unit-test.png"/>] [<img src="https://img.icons8.com/plasticine/48/000000/mockup.png"/>]
-- **CI/CD** [<img src="https://img.icons8.com/color/48/000000/github-actions.png"/>] [<img src="https://img.icons8.com/color/48/000000/travis-ci.png"/>]
-- **Design Tools** [<img src="https://img.icons8.com/fluency/48/000000/figma.png"/>] [<img src="https://img.icons8.com/fluent/48/000000/adobe-xd.png"/>]
-- **Database** [<img src="https://img.icons8.com/color/48/000000/firebase.png"/>] [<img src="https://img.icons8.com/color/48/000000/sqlite.png"/>]
-- **Other Tools** [<img src="https://img.icons8.com/dusk/48/000000/postman-api.png"/>] [<img src="https://img.icons8.com/color/48/000000/dart-dev-tools.png"/>]
 
 ## 🏆 GitHub Trophies
 
