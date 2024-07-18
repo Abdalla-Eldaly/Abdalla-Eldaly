@@ -12,17 +12,11 @@ I'm a professional Flutter developer and designer with experience in building ro
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Abdalla-Eldaly&theme=radical)
 
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Abdalla-Eldaly&color=blueviolet)
 
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalla-Eldaly&layout=compact&theme=radical)
-
-
-
-
 
 ## GitHub Trophies
 
