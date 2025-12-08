@@ -182,70 +182,6 @@ class AbdallaEldaly extends MobileDeveloper {
   <img src="https://github-profile-trophy.vercel.app/?username=Abdalla-Eldaly&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
 </div>
 
-## 💼 Featured Projects & Impact
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛒 2SOOQ E-Commerce Platform
-**Tech Stack:** Flutter • Clean Architecture • BLoC • Firebase • Stripe
-
-- 🎯 **5,000+** active users
-- 📱 Cross-platform iOS & Android
-- 💳 Integrated payment gateway
-- 🔒 Secure authentication system
-
-[![Repo](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/Abdalla-Eldaly)
-
-</td>
-<td width="50%">
-
-### 🕌 Muslims Meetup
-**Tech Stack:** Flutter • Google Maps API • Firebase • Real-time DB
-
-- 📍 Location-based social networking
-- 🔥 **95%** crash-free rate
-- 💬 Real-time chat functionality
-- 📲 Push notifications system
-
-[![Repo](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/Abdalla-Eldaly)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🚚 Battle Delivery Logistics
-**Tech Stack:** Flutter • Google Maps SDK • WebSocket • Route Optimization
-
-- 📦 **15,000+** daily active users
-- 🗺️ Real-time GPS tracking
-- ⚡ Sub-second latency
-- 📈 **35%** accuracy improvement
-
-[![Repo](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/Abdalla-Eldaly)
-
-</td>
-<td width="50%">
-
-### 💪 SuperFitness AI
-**Tech Stack:** Flutter • AI/ML APIs • Local Database • BLoC
-
-- 🤖 AI-driven recommendations
-- 📊 Progress tracking system
-- 📈 **45%** engagement increase
-- 🎯 Personalized workouts
-
-[![Repo](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/Abdalla-Eldaly)
-
-</td>
-</tr>
-</table>
-
-</div>
 
 <br>
 
@@ -253,46 +189,8 @@ class AbdallaEldaly extends MobileDeveloper {
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 </div>
 
-## 📈 Career Milestones
 
-<div align="center">
 
-```mermaid
-%%{init: {'theme':'dark'}}%%
-timeline
-    title Professional Journey
-    2022-2023 : Flutter Instructor @ IEEE BUB SB
-              : Trained 100+ students
-              : Released official IEEE app
-    2024 Feb-Nov : Mobile Dev @ 49Hub
-                 : 15K+ daily active users
-                 : 4.5⭐ App Store rating
-    2024 Sep-2025 Feb : Mobile Dev @ ElevateTech
-                      : Agile Scrum environment
-                      : 50% faster releases
-    2024 Aug-Present : Mentor @ Route Training Center
-                     : Teaching 50+ students
-                     : 90% satisfaction rate
-    2025 Feb-Present : Mobile Dev @ LinkYou Inc
-                     : International experience
-                     : 3 successful deployments
-```
-
-</div>
-
-## 🎓 Experience Highlights
-
-<div align="center">
-
-| 🏢 **Company** | 📍 **Location** | ⏱️ **Duration** | 🚀 **Key Achievement** |
-|:--------------:|:---------------:|:---------------:|:----------------------:|
-| **LinkYou Inc.** | Toronto, Canada | Feb 2025 - Present | 🔥 40% deployment cycle reduction |
-| **Route Training Center** | Cairo, Egypt | Aug 2024 - Present | 🎓 50+ students mentored |
-| **ElevateTech** | Cairo, Egypt | Sep 2024 - Feb 2025 | ⚡ 50% faster CI/CD pipeline |
-| **49Hub** | Remote | Feb 2024 - Nov 2024 | 📱 15K+ daily active users |
-| **IEEE BUB SB** | Benha, Egypt | 2022 - 2023 | 🏆 Official app released |
-
-</div>
 
 ## 📫 Let's Connect & Collaborate
 
