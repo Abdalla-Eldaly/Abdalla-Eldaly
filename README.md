@@ -1,254 +1,136 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,30&height=200&section=header&text=Abdalla%20Eldaly&fontSize=80&fontColor=00D9FF&animation=twinkling&fontAlignY=35" width="100%">
-</div>
+# Abdalla Eldaly
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Mobile+Application+Developer+%F0%9F%93%B1;Cross-Platform+Expert+%7C+Flutter+%26+Dart;Clean+Architecture+Enthusiast+%F0%9F%9A%80;3%2B+Years+%7C+30K%2B+Active+Users" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900">
-</div>
-
-<br>
-
-## 🎯 About Me
-
-<img align="right" alt="Coding" width="420" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-```dart
-class AbdallaEldaly extends MobileDeveloper {
-  final String location = "Cairo, Egypt 🇪🇬";
-  final int experience = 3; // years
-  final List<String> specializations = [
-    "Flutter & Dart",
-    "Cross-Platform Development",
-    "Clean Architecture",
-    "Full-Stack Mobile Solutions"
-  ];
   
-  @override
-  void currentFocus() {
-    print("🔥 Building scalable e-commerce platforms");
-    print("📱 Deployed 10+ apps with 30K+ users");
-    print("🎓 Mentoring 50+ students at Route TC");
-    print("⚡ 95% crash-free rate & counting");
-  }
-  
-  String getDailyRoutine() => 
-    "☕ Coffee -> 💻 Code -> 🧪 Test -> 🚀 Deploy";
-}
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A0A0A0&center=true&vCenter=true&width=600&lines=Mobile+Application+Developer;Flutter+%26+Cross-Platform+Specialist;Clean+Architecture+%7C+SOLID+Principles;3%2B+Years+Experience+%7C+30K%2B+Users)](https://git.io/typing-svg)
+
+</div>
+
+## About
+
+Senior Mobile Application Developer specializing in Flutter and cross-platform development. Experienced in architecting and deploying scalable mobile solutions with clean code principles and modern development practices.
+
+**Location:** Cairo, Egypt  
+**Experience:** 3+ Years  
+**Active Users:** 30,000+  
+**Apps Deployed:** 10+
+
+### Current Focus
+
+- Building enterprise-grade e-commerce platforms
+- Implementing Clean Architecture patterns
+- Technical mentorship at Route TC (50+ students)
+- Maintaining 95% crash-free application stability
+
+## Technical Expertise
+
+### Mobile Development
+```
+Flutter · Dart · iOS · Android · Cross-Platform Development
 ```
 
-<br clear="right"/>
+### Architecture & Design Patterns
+```
+Clean Architecture · SOLID Principles · MVVM · Repository Pattern
+Dependency Injection · Test-Driven Development
+```
 
-## 🛠️ Tech Arsenal
+### State Management
+```
+BLoC · Cubit · Provider · Riverpod · GetX
+```
+
+### Backend & APIs
+```
+Python · Django · Node.js · Express · REST API · GraphQL · WebSocket
+```
+
+### Database & Storage
+```
+SQLite · Hive · MySQL · Firestore · Local Storage Solutions
+```
+
+### Firebase & Cloud Services
+```
+Authentication · Cloud Messaging · Analytics · Crashlytics
+Remote Config · Cloud Firestore · Cloud Storage
+```
+
+### Testing & Quality Assurance
+```
+Unit Testing · Widget Testing · Integration Testing
+Test-Driven Development · Code Coverage · Sentry
+```
+
+### Payment Integration
+```
+Stripe · PayPal · Payment Gateway Implementation
+```
+
+### DevOps & Tools
+```
+Git · GitHub Actions · CI/CD · Agile/Scrum · Jira
+VS Code · Android Studio · Xcode · Postman · Figma
+```
+
+## GitHub Analytics
 
 <div align="center">
 
-### 📱 Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,xcode" alt="Mobile Development" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1a1a" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=1a1a1a" alt="Dart" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white&labelColor=1a1a1a" alt="iOS" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=1a1a1a" alt="Android" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdalla-Eldaly&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9&border_radius=0)
 
-### 🌐 Backend & Web
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,javascript,nodejs,express" alt="Backend" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=1a1a1a" alt="Django" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1a1a" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=1a1a1a" alt="Express" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdalla-Eldaly&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&border_radius=0)
 
-### 🏗️ Architecture & Patterns
-<p>
-  <img src="https://img.shields.io/badge/Clean_Architecture-00D9FF?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=1a1a1a" alt="Clean Architecture" />
-  <img src="https://img.shields.io/badge/SOLID-FF6B6B?style=for-the-badge&logo=solid&logoColor=white&labelColor=1a1a1a" alt="SOLID" />
-  <img src="https://img.shields.io/badge/BLoC-00D9FF?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1a1a" alt="BLoC" />
-  <img src="https://img.shields.io/badge/MVVM-4CAF50?style=for-the-badge&logo=architecture&logoColor=white&labelColor=1a1a1a" alt="MVVM" />
-  <img src="https://img.shields.io/badge/Repository_Pattern-9C27B0?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="Repository" />
-  <img src="https://img.shields.io/badge/Dependency_Injection-FF9800?style=for-the-badge&logo=dependabot&logoColor=white&labelColor=1a1a1a" alt="DI" />
-</p>
-
-### 🎨 State Management
-<p>
-  <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1a1a" alt="Provider" />
-  <img src="https://img.shields.io/badge/BLoC-00D9FF?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1a1a" alt="BLoC" />
-  <img src="https://img.shields.io/badge/Cubit-00D9FF?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1a1a" alt="Cubit" />
-  <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1a1a" alt="GetX" />
-  <img src="https://img.shields.io/badge/Riverpod-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1a1a" alt="Riverpod" />
-</p>
-
-### 🔥 Firebase & Backend Services
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,graphql,postman" alt="Backend Services" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=1a1a1a" alt="Firebase" />
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1a1a1a" alt="REST API" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=1a1a1a" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white&labelColor=1a1a1a" alt="WebSocket" />
-</p>
-
-### 💾 Database & Storage
-<p>
-  <img src="https://skillicons.dev/icons?i=sqlite,mysql" alt="Databases" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=1a1a1a" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Hive-FF6B35?style=for-the-badge&logo=hive&logoColor=white&labelColor=1a1a1a" alt="Hive" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1a1a" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=1a1a1a" alt="Firestore" />
-</p>
-
-### 🧪 Testing & CI/CD
-<p>
-  <img src="https://skillicons.dev/icons?i=github,git" alt="Version Control" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Unit_Testing-00D9FF?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1a1a" alt="Unit Testing" />
-  <img src="https://img.shields.io/badge/Widget_Testing-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1a1a" alt="Widget Testing" />
-  <img src="https://img.shields.io/badge/TDD-FF6B6B?style=for-the-badge&logo=testing-library&logoColor=white&labelColor=1a1a1a" alt="TDD" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=1a1a1a" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white&labelColor=1a1a1a" alt="Sentry" />
-</p>
-
-### 💳 Integrations & APIs
-<p>
-  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white&labelColor=1a1a1a" alt="Stripe" />
-  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=1a1a1a" alt="PayPal" />
-  <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a1a" alt="Google Maps" />
-  <img src="https://img.shields.io/badge/Push_Notifications-FF6B00?style=for-the-badge&logo=firebase&logoColor=white&labelColor=1a1a1a" alt="Push Notifications" />
-</p>
-
-### 🛠️ Tools & IDEs
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,xcode,figma,postman" alt="Tools" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1a1a1a" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&labelColor=1a1a1a" alt="Jira" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=1a1a1a" alt="Figma" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a" alt="Git" />
-</p>
-
-### ⚡ Methodologies
-<p>
-  <img src="https://img.shields.io/badge/Agile-00D9FF?style=for-the-badge&logo=agile&logoColor=white&labelColor=1a1a1a" alt="Agile" />
-  <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white&labelColor=1a1a1a" alt="Scrum" />
-  <img src="https://img.shields.io/badge/Code_Review-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="Code Review" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalla-Eldaly&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&border_radius=0&langs_count=8)
 
 </div>
 
-<br>
+## Professional Experience
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+**Mobile Application Developer** | Freelance & Contract  
+*Specialized in Flutter development and cross-platform solutions*
 
-## 📊 GitHub Performance Dashboard
+- Architected and deployed 10+ production applications
+- Maintained 95% crash-free rate across all applications
+- Served 30,000+ active users with consistent performance
+- Implemented clean architecture patterns and SOLID principles
+- Led technical code reviews and mentorship programs
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abdalla-Eldaly&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_radius=10" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdalla-Eldaly&theme=github-dark-blue&hide_border=true&background=0a0a0a&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=8b949e&border_radius=10" alt="GitHub Streak" />
-</div>
+**Technical Instructor** | Route Training Center  
+*Mobile Development Track*
 
-<br>
+- Mentored 50+ students in Flutter and mobile development
+- Designed comprehensive curriculum for mobile application development
+- Conducted technical workshops and hands-on training sessions
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdalla-Eldaly&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=00D9FF&text_color=ffffff&border_radius=10&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Abdalla-Eldaly&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00D9FF&text_color=ffffff&border_radius=10" alt="Contribution Stats" />
-</div>
+## Key Projects
 
-<br>
+**Enterprise E-Commerce Platform**
+- Full-stack mobile application with Flutter
+- Integrated payment gateways (Stripe, PayPal)
+- Real-time inventory management
+- Push notifications and analytics
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdalla-Eldaly&theme=github-compact&hide_border=true&bg_color=0a0a0a&color=00D9FF&line=00D9FF&point=ffffff&area=true&border_radius=10" alt="Contribution Graph" width="98%"/>
-</div>
+**Multi-Vendor Marketplace**
+- Complex state management with BLoC
+- RESTful API integration
+- Google Maps integration
+- Admin dashboard connectivity
 
-## 🏆 Achievement Gallery
+## Contact
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdalla-Eldaly&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" />
-</div>
-
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-</div>
-
-
-
-
-## 📫 Let's Connect & Collaborate
-
-<div align="center">
-  
-  <a href="https://www.linkedin.com/in/abdalla-eldaly-02621223b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" alt="LinkedIn" />
-  </a>
-  <a href="mailto:abdallaeldaly7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" alt="Email" />
-  </a>
-  <a href="https://github.com/Abdalla-Eldaly">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub" />
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1a1a" alt="Twitter" />
-  </a>
-  <a href="https://portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a1a" alt="Portfolio" />
-  </a>
-
-</div>
-
-<br>
-
-<div align="center">
-  
-### 💡 Open to Opportunities
-**Available for:** Freelance Projects • Full-time Positions • Technical Consulting • Mentorship
-
-<img src="https://komarev.com/ghpvc/?username=Abdalla-Eldaly&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-
-</div>
-
-<br>
+**Email:** abdallaeldaly7@gmail.com  
+**LinkedIn:** [linkedin.com/in/abdalla-eldaly-02621223b](https://www.linkedin.com/in/abdalla-eldaly-02621223b/)  
+**GitHub:** [github.com/Abdalla-Eldaly](https://github.com/Abdalla-Eldaly)
 
 ---
 
 <div align="center">
-  
-### 💭 Developer Wisdom
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson" alt="Quote"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Abdalla-Eldaly&color=58a6ff&style=flat-square&label=Profile+Views)
 
-<br><br>
+**Open to:** Freelance Projects · Full-time Opportunities · Technical Consulting
 
-**✨ "Building the future, one commit at a time"** 
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-<br><br>
-
-**🚀 Thank you for visiting! Let's create something extraordinary together! 💫**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,30&height=120&section=footer" width="100%">
+*Building robust mobile solutions with clean code and modern architecture*
 
 </div>
